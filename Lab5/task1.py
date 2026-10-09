@@ -1,4 +1,4 @@
-# graph implementation in python and Breadth First Search (BFS) using a queue (Task 1)
+lab# graph implementation in python and Breadth First Search (BFS) using a queue (Task 1)
 
 from collections import deque
 
